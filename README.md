@@ -102,6 +102,4 @@ Fui reconhecida com a seguinte Badge pelo programa ONE (Oracle Next Education), 
 Quero agradecer à **Alura Latam** e à **Oracle** pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **[ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.
 
 ## 👩🏻‍💻 Autora
-
-| [<img loading="lazy" src="https://github.com/JosianeCMagalhaes.png" width=115><br><sub>Josiane Magalhães</sub>](https://github.com/JosianeCMagalhaes) |
-| :---: |
+https://github.com/xmarcusx774
